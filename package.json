@@ -1,0 +1,34 @@
+{
+  "name": "well-actualy-bot",
+  "version": "1.0.0",
+  "description": "stupid hackathon 2019 spell corect bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiracp/well-actualy-bot.git"
+  },
+  "keywords": [
+    "stupid",
+    "hackathon",
+    "spell",
+    "check",
+    "twitter",
+    "bot"
+  ],
+  "author": "kiracp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiracp/well-actualy-bot/issues"
+  },
+  "homepage": "https://github.com/kiracp/well-actualy-bot#readme",
+  "dependencies": {
+    "async": "^2.6.2",
+    "csv-parse": "^4.4.1",
+    "fs": "0.0.1-security",
+    "npm": "^6.9.0",
+    "twitter": "^1.7.1"
+  }
+}
