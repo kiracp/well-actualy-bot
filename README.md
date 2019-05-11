@@ -1,6 +1,10 @@
 # well-actualy-bot
 Stupid Shit Hackathon 2019
 
+
+![twitter icon](https://github.com/kiracp/well-actualy-bot/blob/master/well-actualy.png?raw=true "Well Actualy Dude")
+
+
 ## What it is
 A terrible twitter bot that combines obnoxious and uncalled for feedback with generalized stupidity. This bot finds tweets with correctly spelled words and tweets back at them with the wrong spelling. A thick layer of snark is included. 
 
