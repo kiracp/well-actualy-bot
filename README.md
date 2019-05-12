@@ -1,7 +1,9 @@
 # well-actualy-bot
-*Stupid Shit Hackathon 2019*
+This useless piece of shit will tweet to correct your spelling but has no idea how to spell.
 
-Live at [twitter.com/wellactualybot](https://twitter.com/wellactualybot/with_replies)
+Live at [twitter.com/wellactualybot](https://twitter.com/wellactualybot/with_replies) (unless twitter takes it down)
+
+*Built for Stupid Shit Hackathon Boston 2019*
 
 
 ![twitter icon](https://github.com/kiracp/well-actualy-bot/blob/master/well-actualy.png?raw=true "Well Actualy Dude")
