@@ -13,7 +13,7 @@ Live at [twitter.com/wellactualybot](https://twitter.com/wellactualybot/with_rep
 A terrible twitter bot that combines obnoxious and uncalled for feedback with generalized stupidity. This bot finds tweets with correctly spelled words and tweets back at them with the wrong spelling. A thick layer of snark is included. 
 
 ## What it does
-Tweets every 10 minutes
+Tweets every 30 minutes
 
 ## Resources
 * Twitter API
